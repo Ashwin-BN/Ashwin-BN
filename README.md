@@ -1,6 +1,6 @@
 # Hello, I'm Ashwin! 👋
 <p>
-I'm a CPA student at Seneca Polytechnic College, Toronto.
+I'm a Computer Programming & Analysis student at Seneca Polytechnic College, Toronto.
 </p>
 
 ## About Me
