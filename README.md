@@ -22,7 +22,10 @@ Constantly striving to evolve into a better version of myself, I embrace the jou
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00599C?style=flat-square&logo=photoshop&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/-Cybersecurity-007396?style=flat-square" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-00599C?style=flatsquare&logo=photoshop&logoColor=black" />
 </p>
 </div>
 
